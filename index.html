@@ -7,18 +7,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>Tela de Login</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 </head>
 
 <body>
 
-    <div class="main-login">
+
+    <div class="mode">
+        <input type="checkbox" class="btn-mode" id="btn-mode" name="btn-mode">
+        <label class="label" id="label" for="btn-mode">
+            <i class="fa-solid fa-moon"></i>
+            <i class="fa-solid fa-sun"></i>
+
+            <div class="ball"></div>
+        </label>
+    </div>
+
+    <section class="main-login">
+
         <div class="left-login">
             <h1>Faça login <br>e acesse a <span>plataforma!</span></h1>
             <img src="img/video-game-developer-animate.svg" class="left-login-image" alt="astronaut animate">
 
         </div>
         <div class="rigth-login">
-            <div class="card-login">
+            <div class="card-login" id="login-mode">
                 <h1>Bem vindo!</h1>
                 <p>Entre ou cadastre-se usando email ou rede social.</p>
                 <div class="textfield">
@@ -50,9 +63,9 @@
 
         </div>
 
-    </div>
+    </section>
 
-
+    <script src="scrypt.js" defer></script>
 </body>
 
 </html>
