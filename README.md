@@ -1,11 +1,11 @@
 
 #  Projeto: Tela de Login - Modos Dark e Light
-###### Projeto de tela de login, responsivo e com botão de modo dark e light.
+### Projeto de tela de login, responsivo e com botão de modo dark e light.
 
 ##
 ##  Por que:
 
-Projeto feito para treinar e desenvolver as habilidades. Utilizei JavaScript para criar botão e script para mudança de modo escuro/claro e CSS para estilização.
+###### Projeto feito para treinar e desenvolver as habilidades. Utilizei JavaScript para criar botão e script para mudança de modo escuro/claro e CSS para estilização.
 
 ##  Habilidades Utilizadas no Projeto:
 
@@ -13,7 +13,7 @@ Projeto feito para treinar e desenvolver as habilidades. Utilizei JavaScript par
 
 ##  Próximos Passos:
 
-Alterar código de mudança de modo (escuro/claro): utilizar variáveis no CSS.
+###### Alterar código de mudança de modo (escuro/claro): utilizar variáveis no CSS.
 
 ##  Contatos
 
