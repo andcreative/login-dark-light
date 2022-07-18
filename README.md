@@ -15,7 +15,7 @@ Projeto feito para treinar as habilidades. Utilizei JavaScript para criar o modo
 
 Alterar código de mudança de modo claro/escuro, utilizar variáveis no CSS.
 
-##  Me ajude a comprar café:
+##  Doações e Pagamentos:
 [![PIX](https://img.shields.io/badge/pix-30363D?style=for-the-badge&logo=PIX&logoColor=#008000)](https://drive.google.com/file/d/1gj-aE6lkyj7y-IdHOGwDF-Nmrm-i5CEm/view?usp=sharing)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=4U2BGNTBMZDGU&no_recurring=0&item_name=Thanks%21&currency_code=BRL)
 
