@@ -4,7 +4,7 @@
 
 ##  Por que:
 
-### Projeto feito para treinar e desenvolver as habilidades. Utilizei JavaScript para criar botão e script para mudança de modo escuro/claro e CSS para estilização.
+### Projeto desenvolvido para treinar e desenvolver as habilidades. Utilizei JavaScript para criar botão e script para mudança de modo escuro/claro e CSS para estilização.
 
 ##  Habilidades Utilizadas no Projeto:
 
