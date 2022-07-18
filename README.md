@@ -16,7 +16,7 @@ Projeto feito para treinar as habilidades. Utilizei JavaScript para criar o modo
 
 
 ## ☕ Me ajude a comprar café:
-[![PIX](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=PIX&logoColor=#008000)](https://link-da-sua-pagina)
+[![PIX](https://img.shields.io/badge/pix-30363D?style=for-the-badge&logo=PIX&logoColor=#008000)](https://link-da-sua-pagina)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=4U2BGNTBMZDGU&no_recurring=0&item_name=Thanks%21&currency_code=BRL)
 
 ### 📱 Contatos
