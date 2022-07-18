@@ -1,5 +1,5 @@
 
-# Tela de Login - Modos Dark e Light
+# Projeto: Tela de Login - Modos Dark e Light
 
 Projeto de tela de login, responsivo e com botão de modo dark e light.
 
@@ -41,7 +41,7 @@ Lembre de seguir os requisitos da licensa...
 ## 💰 Donate
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=4U2BGNTBMZDGU&no_recurring=0&item_name=Thanks%21&currency_code=BRL)]
 
-### Support Ou Contato
+### Contatos
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
