@@ -4,7 +4,7 @@
 
 ##  Por que:
 
-###### Projeto feito para treinar e desenvolver as habilidades. Utilizei JavaScript para criar botão e script para mudança de modo escuro/claro e CSS para estilização.
+### Projeto feito para treinar e desenvolver as habilidades. Utilizei JavaScript para criar botão e script para mudança de modo escuro/claro e CSS para estilização.
 
 ##  Habilidades Utilizadas no Projeto:
 
@@ -12,7 +12,7 @@
 
 ##  Próximos Passos:
 
-###### Alterar código de mudança de modo (escuro/claro): utilizar variáveis no CSS.
+### Alterar código de mudança de modo (escuro/claro): utilizar variáveis no CSS.
 
 ##  Contatos
 
