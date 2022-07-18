@@ -3,7 +3,7 @@
 
 Projeto de tela de login, responsivo e com botão de modo dark e light.
 
-##  Porque:
+##  Por que:
 
 Projeto feito para treinar e desenvolver as habilidades. Utilizei JavaScript para criar botão e script para mudança de modo escuro/claro e CSS para estilização.
 
