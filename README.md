@@ -4,7 +4,7 @@
 Projeto de tela de login, responsivo e com botão de modo dark e light.
 
 ##  Porque:
-Projeto feito para treinar as habilidades. Utilizei JavaScript para criar o modo noturno 
+Projeto feito para treinar e desenvolver as habilidades. Utilizei JavaScript para criar botão e script para mudança de modo escuro/claro e CSS para estilização.
 
 
 ##  Habilidades Utilizadas no Projeto:
@@ -13,7 +13,7 @@ Projeto feito para treinar as habilidades. Utilizei JavaScript para criar o modo
 
 ##  Próximos Passos:
 
-Alterar código de mudança de modo claro/escuro, utilizar variáveis no CSS.
+Alterar código de mudança de modo (escuro/claro): utilizar variáveis no CSS.
 
 ##  Doações e Pagamentos:
 [![PIX](https://img.shields.io/badge/pix-30363D?style=for-the-badge&logo=PIX&logoColor=#008000)](https://drive.google.com/file/d/1gj-aE6lkyj7y-IdHOGwDF-Nmrm-i5CEm/view?usp=sharing)
