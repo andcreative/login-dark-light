@@ -3,7 +3,7 @@
 
 Projeto de tela de login, responsivo e com botão de modo dark e light.
 
-## 🔧 Funçoes
+##  Habilidades Utilizadas no projeto
 
 ### Função 01:
 - Site 100% responsivo
