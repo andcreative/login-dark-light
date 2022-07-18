@@ -1,6 +1,6 @@
 
 #  Projeto: Tela de Login - Modos Dark e Light
-#### Projeto de tela de login, responsivo e com botão de modo dark e light.
+### Projeto de tela de login, responsivo e com botão de modo dark e light.
 
 ##  Por que:
 
